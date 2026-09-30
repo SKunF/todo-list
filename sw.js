@@ -1,8 +1,9 @@
-const CACHE = 'todo-cache-v1';
+const CACHE = 'todo-cache-v2';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
+  './libs/Sortable.min.js',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/apple-touch-icon.png'
