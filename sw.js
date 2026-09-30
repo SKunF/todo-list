@@ -1,4 +1,4 @@
-const CACHE = 'todo-cache-v3';
+const CACHE = 'todo-cache-v4';
 const ASSETS = [
   './',
   './index.html',
